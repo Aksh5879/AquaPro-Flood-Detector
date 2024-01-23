@@ -7,7 +7,8 @@ ENGG 525 - Engineering Entrepreneurship - Fall 2023 Assignment #3
 The water sensor system innovation is in the residential flood prevention, particularly vital for cities like Calgary, where the unique geographical and climatic conditions contribute to a higher propensity for water-induced calamities. Drawing on the latest environmental data, Calgary has faced significant flooding, with the 2013 flood being one of the most devastating natural disasters in Canadian history, inflicting damages exceeding $5 billion CA. Our sensor system introduces a pioneering approach to early water detection, leveraging real-time monitoring and immediate visual alerts to forewarn homeowners.
 
 ## Techincal Planning
-![Schematic](WaterLevelSensorSchematic.png)
+![Water Level Sensor Flowchart](https://github.com/mdishrak/Water-Level-Sensor/assets/101423584/01a85b4b-4fab-4019-b95b-b444650f7ee1)
+
 The schematic developed in EasyEDA forms the basis for the hardware aspect of the technical plan, which would be complemented by software development for reading the sensor data, interpreting it, and controlling the outputs.
 
 ## Final Design
