@@ -53,5 +53,16 @@ void loop() {
   }
   delay(1000); // Wait for a second before reading again
 }
+// Function to get the reading from the water level sensor
+int readSensor() {
+  digitalWrite(sensorPower, HIGH); // Turn on the sensor
+  delay(10); // Wait a bit for sensor to stabilize
+  val = analogRead(sensorPin); // Read the sensor value
+  digitalWrite(sensorPower, LOW); // Turn off the sensor
+  Serial.print("Sensor value: ");
+  Serial.println(val);
 
+  delay(1000);
+  return val;
+}
 
