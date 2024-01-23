@@ -11,9 +11,7 @@ The water sensor system innovation is in the residential flood prevention, parti
 The schematic developed in EasyEDA forms the basis for the hardware aspect of the technical plan, which would be complemented by software development for reading the sensor data, interpreting it, and controlling the outputs.
 
 ## Final Design
-![FinalDesign1](![FinalDesign1](https://github.com/mdishrak/Water-Level-Sensor/assets/101423584/5cac7cbc-e944-462e-a828-9f092461ffd9)
-)
-
+![FinalDesign1](https://github.com/mdishrak/Water-Level-Sensor/assets/101423584/10ddda91-8b92-40ca-9ffd-3f5cc7515a61)
 
 
 ## Components List using ELEGOO Starter Kit
