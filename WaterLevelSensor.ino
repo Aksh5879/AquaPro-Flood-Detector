@@ -14,3 +14,14 @@ void setup() {
   Serial.begin(9600);
   pinMode(sensorPower, OUTPUT);
   digitalWrite(sensorPower, LOW);
+// Set LED pins as an OUTPUT
+  pinMode(redLED, OUTPUT);
+  pinMode(yellowLED, OUTPUT);
+  pinMode(greenLED, OUTPUT);
+
+  // Initially turn off all LEDs
+  digitalWrite(redLED, LOW);
+  digitalWrite(yellowLED, LOW);
+  digitalWrite(greenLED, LOW);
+}
+
